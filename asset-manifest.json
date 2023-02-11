@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0a25b6ce.css",
-    "main.js": "/static/js/main.c25fb3aa.js",
+    "main.js": "/static/js/main.4200ca9c.js",
     "static/js/787.2fe966aa.chunk.js": "/static/js/787.2fe966aa.chunk.js",
     "static/media/header_banner.png": "/static/media/header_banner.a5abad787bfa7d75f8b8.png",
     "static/media/Inte-Black.ttf": "/static/media/Inte-Black.143c28420846d45c5834.ttf",
@@ -45,11 +45,11 @@
     "static/media/header_contacts_order-button_phone-icon.png": "/static/media/header_contacts_order-button_phone-icon.c4ea66d4bf94fa7e2c5d.png",
     "index.html": "/index.html",
     "main.0a25b6ce.css.map": "/static/css/main.0a25b6ce.css.map",
-    "main.c25fb3aa.js.map": "/static/js/main.c25fb3aa.js.map",
+    "main.4200ca9c.js.map": "/static/js/main.4200ca9c.js.map",
     "787.2fe966aa.chunk.js.map": "/static/js/787.2fe966aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a25b6ce.css",
-    "static/js/main.c25fb3aa.js"
+    "static/js/main.4200ca9c.js"
   ]
 }
