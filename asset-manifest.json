@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.69c53839.css",
-    "main.js": "/static/js/main.83e8809c.js",
+    "main.css": "/static/css/main.0a25b6ce.css",
+    "main.js": "/static/js/main.1805a784.js",
     "static/js/787.2fe966aa.chunk.js": "/static/js/787.2fe966aa.chunk.js",
     "static/media/header_banner.png": "/static/media/header_banner.a5abad787bfa7d75f8b8.png",
-    "static/media/Inter-Black.ttf": "/static/media/Inter-Black.143c28420846d45c5834.ttf",
-    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/Inte-Black.ttf": "/static/media/Inte-Black.143c28420846d45c5834.ttf",
+    "static/media/Inte-Regular.ttf": "/static/media/Inte-Regular.e89cb19905e7db5591b0.ttf",
     "static/media/SassyFrass-Regular.ttf": "/static/media/SassyFrass-Regular.ec857eff3b7fe49ac4e5.ttf",
     "static/media/page_5_gallery_image_03.jpg": "/static/media/page_5_gallery_image_03.795809a8ea8ad8900a8b.jpg",
     "static/media/page_5_gallery_image_02.jpg": "/static/media/page_5_gallery_image_02.ecf33eba5d2fb5e7c5e4.jpg",
@@ -44,12 +44,12 @@
     "static/media/footer_facebook-icon.png": "/static/media/footer_facebook-icon.875a6c2e5ae2c9f46783.png",
     "static/media/header_contacts_order-button_phone-icon.png": "/static/media/header_contacts_order-button_phone-icon.c4ea66d4bf94fa7e2c5d.png",
     "index.html": "/index.html",
-    "main.69c53839.css.map": "/static/css/main.69c53839.css.map",
-    "main.83e8809c.js.map": "/static/js/main.83e8809c.js.map",
+    "main.0a25b6ce.css.map": "/static/css/main.0a25b6ce.css.map",
+    "main.1805a784.js.map": "/static/js/main.1805a784.js.map",
     "787.2fe966aa.chunk.js.map": "/static/js/787.2fe966aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69c53839.css",
-    "static/js/main.83e8809c.js"
+    "static/css/main.0a25b6ce.css",
+    "static/js/main.1805a784.js"
   ]
 }
