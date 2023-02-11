@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a25b6ce.css",
-    "main.js": "/static/js/main.306cd56e.js",
+    "main.css": "/static/css/main.885da806.css",
+    "main.js": "/static/js/main.64891750.js",
     "static/js/787.2fe966aa.chunk.js": "/static/js/787.2fe966aa.chunk.js",
     "static/media/header_banner.png": "/static/media/header_banner.a5abad787bfa7d75f8b8.png",
     "static/media/Inte-Black.ttf": "/static/media/Inte-Black.143c28420846d45c5834.ttf",
@@ -44,12 +44,12 @@
     "static/media/footer_facebook-icon.png": "/static/media/footer_facebook-icon.875a6c2e5ae2c9f46783.png",
     "static/media/header_contacts_order-button_phone-icon.png": "/static/media/header_contacts_order-button_phone-icon.c4ea66d4bf94fa7e2c5d.png",
     "index.html": "/index.html",
-    "main.0a25b6ce.css.map": "/static/css/main.0a25b6ce.css.map",
-    "main.306cd56e.js.map": "/static/js/main.306cd56e.js.map",
+    "main.885da806.css.map": "/static/css/main.885da806.css.map",
+    "main.64891750.js.map": "/static/js/main.64891750.js.map",
     "787.2fe966aa.chunk.js.map": "/static/js/787.2fe966aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a25b6ce.css",
-    "static/js/main.306cd56e.js"
+    "static/css/main.885da806.css",
+    "static/js/main.64891750.js"
   ]
 }
